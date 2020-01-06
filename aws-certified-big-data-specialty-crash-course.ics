@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//O'Reilly//safaribooksonline.com//
+BEGIN:VEVENT
+SUMMARY:AWS Certified Big Data -  Specialty Crash Course
+DTSTART;VALUE=DATE-TIME:20190819T160000Z
+DTEND;VALUE=DATE-TIME:20190819T200000Z
+DTSTAMP;VALUE=DATE-TIME:20190722T141125Z
+UID:0636920288343-0636920294337
+DESCRIPTION:In this online course\, Noah Gift will cover how to prepare fo
+ r one of the hottest certification exams in 2019\, the AWS Big Data Certif
+ ication.  This training will cover the six core areas of the certification
+ :  Collection\, Storage\, Processing\, Analysis\, Visualization\, and Data
+  Security.  The final portion of the course will cover real-world case stu
+ dies of Big Data problems on AWS.\n\nData Science is one of the hottest jo
+ bs\, but it is often said that you need five data engineers to support one
+  data scientist.  The reason for this metric is that data engineering is a
+  challenging job that requires cutting edge skills that are often platform
+  specific.  This course helps data engineers round out their knowledge of 
+ AWS Big Data fundamentals so they can achieve certification on the AWS pla
+ tform.\n\n\n\n\nGo to the event (https://learning.oreilly.com/live-trainin
+ g/courses/aws-certified-big-data-specialty-crash-course/0636920288343/join
+ /)\n
+LOCATION:Online
+ORGANIZER;CN=O´REILLY MEDIA:mailto:donotreply@oreilly.com
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-ALT-DESC;FMTTYPE=TEXT/HTML:\n<p>In this online course\, Noah Gift will c
+ over how to prepare for one of the hottest certification exams in 2019\, t
+ he AWS Big Data Certification.  This training will cover the six core area
+ s of the certification:  Collection\, Storage\, Processing\, Analysis\, Vi
+ sualization\, and Data Security.  The final portion of the course will cov
+ er real-world case studies of Big Data problems on AWS.</p>\n<p>Data Scien
+ ce is one of the hottest jobs\, but it is often said that you need five da
+ ta engineers to support one data scientist.  The reason for this metric is
+  that data engineering is a challenging job that requires cutting edge ski
+ lls that are often platform specific.  This course helps data engineers ro
+ und out their knowledge of AWS Big Data fundamentals so they can achieve c
+ ertification on the AWS platform.</p>\n<p><a href="https://learning.oreill
+ y.com/live-training/courses/aws-certified-big-data-specialty-crash-course/
+ 0636920288343/join/">Go to the event</a></p>\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AWS Certified Big Data -  Specialty Crash Course
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AWS Certified Big Data -  Specialty Crash Course
+DTSTART;VALUE=DATE-TIME:20190820T160000Z
+DTEND;VALUE=DATE-TIME:20190820T200000Z
+DTSTAMP;VALUE=DATE-TIME:20190722T141125Z
+UID:0636920288343-0636920294351
+DESCRIPTION:In this online course\, Noah Gift will cover how to prepare fo
+ r one of the hottest certification exams in 2019\, the AWS Big Data Certif
+ ication.  This training will cover the six core areas of the certification
+ :  Collection\, Storage\, Processing\, Analysis\, Visualization\, and Data
+  Security.  The final portion of the course will cover real-world case stu
+ dies of Big Data problems on AWS.\n\nData Science is one of the hottest jo
+ bs\, but it is often said that you need five data engineers to support one
+  data scientist.  The reason for this metric is that data engineering is a
+  challenging job that requires cutting edge skills that are often platform
+  specific.  This course helps data engineers round out their knowledge of 
+ AWS Big Data fundamentals so they can achieve certification on the AWS pla
+ tform.\n\n\n\n\nGo to the event (https://learning.oreilly.com/live-trainin
+ g/courses/aws-certified-big-data-specialty-crash-course/0636920288343/join
+ /)\n
+LOCATION:Online
+ORGANIZER;CN=O´REILLY MEDIA:mailto:donotreply@oreilly.com
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-ALT-DESC;FMTTYPE=TEXT/HTML:\n<p>In this online course\, Noah Gift will c
+ over how to prepare for one of the hottest certification exams in 2019\, t
+ he AWS Big Data Certification.  This training will cover the six core area
+ s of the certification:  Collection\, Storage\, Processing\, Analysis\, Vi
+ sualization\, and Data Security.  The final portion of the course will cov
+ er real-world case studies of Big Data problems on AWS.</p>\n<p>Data Scien
+ ce is one of the hottest jobs\, but it is often said that you need five da
+ ta engineers to support one data scientist.  The reason for this metric is
+  that data engineering is a challenging job that requires cutting edge ski
+ lls that are often platform specific.  This course helps data engineers ro
+ und out their knowledge of AWS Big Data fundamentals so they can achieve c
+ ertification on the AWS platform.</p>\n<p><a href="https://learning.oreill
+ y.com/live-training/courses/aws-certified-big-data-specialty-crash-course/
+ 0636920288343/join/">Go to the event</a></p>\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AWS Certified Big Data -  Specialty Crash Course
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
